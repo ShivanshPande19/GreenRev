@@ -1,4 +1,4 @@
-DRIVE LINK: https://drive.google.com/file/d/1kuJKzwoMEISjFfdbUngWyZfA4r5rU7j8/view?usp=sharing
+
 HOW TO RUN THE CODE:
 1.) Go to pubspace.yaml and click on pub.get
 2.) Go to main.dart and click on get dependencies
